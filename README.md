@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @eliaspellegrino
-- 👀 I’m interested in front and backend
-- 🌱 I’m currently learning web development on "TOP"
+- 👀 I am working at TecData as a fullstack developer since July 2024
+- 🌱I am currently trying to improve my knowledge by taking the fullstakcopen bootcamp
 - 📫 How to reach me: https://ar.linkedin.com/in/elias-pellegrino
-
