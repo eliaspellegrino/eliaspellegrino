@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @eliaspellegrino
-- 👀 I am working at TecData as a fullstack developer since July 2024
+- 👀 I am working at TecData as a fullstack developer since July 2024.
+- ⚡You can view my work at [https://prod.planetoffice.com.ar/](https://prod.planetoffice.com.ar/). Here, I have worked closely with my team on all aspects of the website, including design and layout, implementation of new features, integration with REST API services, testing and bug fixing, as well as the development of new components. I have contributed to various sections, such as the homepage, catalog, shopping cart, product details, user account section, and more.
 - 🌱I am currently trying to improve my knowledge by taking the fullstakcopen bootcamp
 - 📫 How to reach me: https://ar.linkedin.com/in/elias-pellegrino
